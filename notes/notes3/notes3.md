@@ -1,3 +1,5 @@
+# Notes 3
+
 # Questions
 * **What is a graphical user interface (GUI)?** A set of programs that allows a user to interact with the computer system via icons, windows, and various other visual elements.
 * **What is a desktop environment?** An implementation of the desktop metaphor made of a bundle of programs running on top of a computer operating system, made of a bundle of programs running on top of a computer operating system, which shares a common GUI, sometimes described as a graphical shell.

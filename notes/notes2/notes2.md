@@ -1,3 +1,5 @@
+# Notes 2
+
 Lecture 2 Introduction to Linux Notes (this is the tittle of the document - Heading 1 formatting please!)
 
 1. What is an Operating System?

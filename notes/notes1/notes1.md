@@ -1,3 +1,5 @@
+# Notes 1
+
 ### What is Markdown?
 
 Markdown is a markup language that let's you write plain text documents with a few lightweight formatting options. It was created by John Gruber in 2004 and is mainly content focused. Meaning, the user does not need to worry about tags like used in HTML. It's also future proof since it capable of working with plain text rather than proprietary document formats. Markdown files also have their own distinct file extension being ".md" or ".markdown"
