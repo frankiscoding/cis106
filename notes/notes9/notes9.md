@@ -20,6 +20,7 @@ Awk is a scripting language used for processing and displaying text. Awk can wor
 *  Print the first column of every line of a file
   ``` awk '{print $1}' ~/Documents/Csv/ars.csv ```
 *  Print the first and last field of the /etc/passwd
+  `awk -F: '{print $1," = ",$NF}' /etc/passwd`
 
 ## Sed
 SED is a stream editor that performs operations on files and standard output. For example, it can search, find and replace, insert, and delete. By using SED you can edit files without opening them.
